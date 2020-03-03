@@ -1,5 +1,12 @@
 # RBMS Transcription Guidelines
 
+[For decimal forms of Unicode characters](https://unicodelookup.com/)
+
+&alpha;
+&#945;
+
+&#1500;
+
 In progress -- 20200112, ALT
 
 Option: Record a transcription standard used for the metadata work as a Work related manifestation of work of the transcription standard.
