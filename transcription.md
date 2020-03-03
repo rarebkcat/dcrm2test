@@ -11,6 +11,8 @@ In progress -- 20200112, ALT
 
 Option: Record a transcription standard used for the metadata work as a Work related manifestation of work of the transcription standard.
 
+![alt text](https://github.com/rarebkcat/dcrm2test/blob/rarebkcat-transcription/early%20contractions%2001.png "Early Contractions, image 1 [Missing Letter(s)] to [Con]")
+
 ## Process 
 
 I integrated the pre-3R RDA text and RBMS PS text to the best of my ability.
