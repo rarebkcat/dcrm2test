@@ -1,4 +1,4 @@
-<h1>RBMS Transcription Guidelines</h1>
+# RBMS Transcription Guidelines
 
 In progress -- 20200112, ALT
 
@@ -31,3 +31,5 @@ Donec porta arcu nec tortor bibendum, commodo sagittis tortor venenatis. Proin e
 #### Punctuation
 
 #### Diacritical marks
+
+[Go back to beginning](#RBMS-Transcription-Guidelines)
